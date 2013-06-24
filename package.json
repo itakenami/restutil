@@ -1,0 +1,27 @@
+{
+  "name": "restutil",
+  "description": "Util for rest in Express e Node.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Igor Takenami",
+    "email": "itakenami@gmail.com"
+  },
+  "main": "index",
+  "keywords": [
+    "express",
+    "mvc",
+    "model",
+	"dao"
+  ],
+  "dependencies": {
+
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+  
+  },
+  "_id": "genericmodel@0.0.1",
+  "_from": "genericmodel@*"
+}
